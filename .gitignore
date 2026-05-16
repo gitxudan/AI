@@ -1,5 +1,5 @@
 GCP_KEY
-docx/
+docs/
 chroma_db
 chroma_vertex_db
 chroma_de_knowledge_db
