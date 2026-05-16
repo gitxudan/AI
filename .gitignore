@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+GCP_KEY
+docs/
+chroma_db
+chroma_vertex_db
+chroma_de_knowledge_db
+.venv/
